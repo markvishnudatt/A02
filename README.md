@@ -1,6 +1,6 @@
 # A02
 Definition terms
-**Branch /n
+**Branch 
 Clone
 Commit
 Fetch
