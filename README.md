@@ -1,6 +1,6 @@
 # A02
 Definition terms
-**Branch** : 
+**Branch /n
 Clone
 Commit
 Fetch
@@ -11,4 +11,4 @@ Merge Conflict
 Push
 Pull
 Remote
-Repository
+Repository**
