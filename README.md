@@ -1,6 +1,6 @@
-# A02
-Definition terms
-**Branch** - blah blah blah <br />
+# A02 <br/>
+Definition terms <br/>
+**Branch** -  
 Clone
 Commit
 Fetch
