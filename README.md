@@ -1,14 +1,4 @@
-# A02 <br/> 
-Definition terms <br/>
-**Branch** -  
-Clone
-Commit
-Fetch
-GIT
-Github
-Merge
-Merge Conflict
-Push
-Pull
-Remote
-Repository
+# A02 
+
+#Git & Github: Step by Step Tutorial
+
