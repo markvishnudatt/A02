@@ -3,8 +3,7 @@
 # Git & GitHub: Step by Step Tutorial
 
 ## Step 1: Create a GitHub account
-
-
+![Image](My_Photos/GitHubdotcom.png)
 
 # Glossary
 
