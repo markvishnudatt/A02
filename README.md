@@ -17,6 +17,11 @@ A repository is where you will store your projects and also where you can collab
 Name your repository what you would like. IF you are doing a project, make sure it relates to it. You can also check the box for a README file if you would like to add a description for your repository. 
 
 ## Step 3: Create/Upload A File
+![Image](My_Photos/createfileGitHub.png)
+
+You can choose to either create a new file or upload one from your computer. When creating a new file, you will need a name for your file and the you can begin coding. 
+
+![Image](My_Photos/createfileGitHub.png)
 
 
 
