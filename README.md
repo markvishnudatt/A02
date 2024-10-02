@@ -28,7 +28,7 @@ You can choose to either create a new file or upload one from your computer. Whe
 When commiting your changes, you can add a brief description on what you added or changed from your code.
 
 # Accessing Git
-Git is what GitHub uses for their social and user interface. If you have open-source projects that use Git, GitHub is designed to help you better manage them.
+Git is what GitHub uses for their social and user interface. If you have open-source projects that use Git, GitHub is designed to help you better manage them. By using the link, https://git-scm.com/downloads you can download Git.
 
 ![Image](My_Photos/Gitaccesspromt.png)
 
@@ -64,3 +64,4 @@ Webstorm is mainly used for Javascript and Typescript. It also has other languag
 https://docs.github.com/en/get-started/learning-about-github/github-glossary#git
 https://devmountain.com/blog/git-vs-github-whats-the-difference/#:~:text=Simply%20put%2C%20Git%20is%20a,help%20you%20better%20manage%20them.
 https://www.jetbrains.com/webstorm/
+https://git-scm.com/downloads
