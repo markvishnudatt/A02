@@ -21,7 +21,14 @@ Name your repository what you would like. IF you are doing a project, make sure 
 
 You can choose to either create a new file or upload one from your computer. When creating a new file, you will need a name for your file and the you can begin coding. 
 
-![Image](My_Photos/createfileGitHub.png)
+## Step 4: Commiting Changes
+
+![Image](My_Photos/commitchangesGitHub.png)
+
+When commiting your changes, you can add a brief description on what you added or changed from your code.
+
+# Accessing Git
+Search Terminal on your computer and type "git". This will prompt the screen to give you many commands on using Git. 
 
 
 
