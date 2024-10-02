@@ -1,7 +1,6 @@
 # A02 
 
 # Git & GitHub: Step by Step Tutorial
-
 ## Step 1: Create a GitHub account
 
 
