@@ -5,6 +5,21 @@
 ## Step 1: Create a GitHub account
 ![Image](My_Photos/GitHubdotcom.png)
 
+Start off by going to github.com and signing up for an account. Use whichever email or username you want, as long as you reach the homescreen.
+
+## Step 2: Create Your First Repository
+![Image](My_Photos/homepage-repository.png)
+
+A repository is where you will store your projects and also where you can collabarate with others. 
+
+![Image](My_Photos/create-repository.png)
+
+Name your repository what you would like. IF you are doing a project, make sure it relates to it. You can also check the box for a README file if you would like to add a description for your repository. 
+
+## Step 3: Create/Upload A File
+
+
+
 # Glossary
 
 - **Branch**: A branch is a new or parallel version of the main repository. If you are working on a project that's too big or has an error, a branch of that repository will allow you edit and fix the problem without effecting the main repository. 
