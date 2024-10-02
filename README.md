@@ -28,6 +28,7 @@ You can choose to either create a new file or upload one from your computer. Whe
 When commiting your changes, you can add a brief description on what you added or changed from your code.
 
 # Accessing Git
+
 Search Terminal on your computer and type "git". This will prompt the screen to give you many commands on using Git. 
 
 
