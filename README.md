@@ -28,9 +28,15 @@ You can choose to either create a new file or upload one from your computer. Whe
 When commiting your changes, you can add a brief description on what you added or changed from your code.
 
 # Accessing Git
+Git is what GitHub uses for their social and user interface. If you have open-source projects that use Git, GitHub is designed to help you better manage them.
+
+![Image](My_Photos/Gitaccesspromt.png)
 
 Search Terminal on your computer and type "git". This will prompt the screen to give you many commands on using Git. 
 
+# Webstorm 
+
+Webstorm is mainly used for Javascript and Typescript. It also has other languages like CSS, HTML, etc. It is utalized for creating, editing, and debuging coding. By going to https://www.jetbrains.com/webstorm/, you are able to download it and learn more about it. Webstrom also supports multiple frameworks and libraries like Angular, React, Vue.js, and Node.js. 
 
 
 # Glossary
@@ -56,3 +62,5 @@ Search Terminal on your computer and type "git". This will prompt the screen to 
 - https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop#:~:text=Similar%20to%20saving%20a%20file,Who%20created%20the%20changes
 - https://www.atlassian.com/git/tutorials/syncing/git-fetch#:~:text=The%20git%20fetch%20command%20downloads,else%20has%20been%20working%20on.
 https://docs.github.com/en/get-started/learning-about-github/github-glossary#git
+https://devmountain.com/blog/git-vs-github-whats-the-difference/#:~:text=Simply%20put%2C%20Git%20is%20a,help%20you%20better%20manage%20them.
+https://www.jetbrains.com/webstorm/
